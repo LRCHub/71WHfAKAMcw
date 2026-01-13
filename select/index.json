@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "スイートマジック",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-01-13T11:20:42.777757Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイートマジック (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_スイートマジック_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スイートマジック - 2015 Summer ver.",
+      "artist": "ろん",
+      "has_synced": true,
+      "path": "select/02_スイートマジック_-_2015_Summer_ver._ろん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スイートマジック",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/03_スイートマジック_Junky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スイートマジック",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/04_スイートマジック_Junky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スイートマジック - 2015 Summer ver.",
+      "artist": "Lon",
+      "has_synced": true,
+      "path": "select/05_スイートマジック_-_2015_Summer_ver._Lon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スイートマジック(2015 Summer ver.) - Sweet Magic (2015 Summer Ver.)",
+      "artist": "Lon",
+      "has_synced": true,
+      "path": "select/06_スイートマジック(2015_Summer_ver.)_-_Sweet_Magic_(2015_Summer_Ver.)_Lon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スイートマジック",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/07_スイートマジック_Junky.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スイートマジック",
+      "artist": "dmARTS",
+      "has_synced": true,
+      "path": "select/08_スイートマジック_dmARTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スイートマジック",
+      "artist": "Junky feat. Lon",
+      "has_synced": true,
+      "path": "select/09_スイートマジック_Junky_feat._Lon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイートマジック",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_スイートマジック_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
